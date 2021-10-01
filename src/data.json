@@ -1,0 +1,24 @@
+{
+    "products": [{
+        "id": 1,
+        "title": "Product 1",
+        "price": 30,
+        "description": "Product 1 description",
+        "sizes": ["XL","XS"],
+        "images": "/images/dress1.jpg"
+    },{
+        "id": 2,
+        "title": "Product 2",
+        "price": 40,
+        "description": "Product 2 description",
+        "sizes": ["M","L"],
+        "images": "/images/dress2.jpg"
+    },{
+        "id": 3,
+        "title": "Product 3",
+        "price": 20,
+        "description": "Product 3 description",
+        "sizes": ["XS","M"],
+        "images": "/images/dress3.jpg"
+    }]
+}
