@@ -119,3 +119,12 @@ footer{
 .right{
   text-align: right;
 }
+
+/* modal  */
+.product-detail{
+  display: flex;
+}
+.product-detail img{
+  width: 40%;
+  margin-right: 30px;
+}
